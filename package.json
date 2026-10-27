@@ -1,0 +1,17 @@
+{
+  "name": "sfetoui-h30l09",
+  "version": "1.0.0",
+  "description": "Web Programming III Lab 9 - Events, Emitters and Sockets",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "nodemon": "*",
+    "socket.io": "*"
+  }
+}
